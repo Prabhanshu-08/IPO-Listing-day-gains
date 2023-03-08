@@ -1,6 +1,7 @@
 # IPO-Listing-day-gains
 
-![ezgif com-gif-to-mp4](https://user-images.githubusercontent.com/88246010/222749942-a3334055-4b6d-4f13-922a-00bca5da9b46.gif)
+
+![IPO](https://user-images.githubusercontent.com/88246010/223772397-dbdcbea8-467e-45fe-a43f-75c23ebece74.gif)
 
 
 **What is an IPO and why companies launch IPOs?**
@@ -62,7 +63,7 @@ conda activate ipo_listing_day_gains
 
 **DEMO**
 
-![image](https://user-images.githubusercontent.com/88246010/222506106-c10a30c7-7e52-45ce-8c66-c61a03deb852.png)
+![image](https://user-images.githubusercontent.com/88246010/223772544-7928953d-55cd-4f71-ae6a-9927f7485f3b.png)
 
 Fill all the details mentioned on the page. All these details can be found on either of the links mentioned above. Lets's take an example of 'Burger King' IPO. It has these details:
 
@@ -74,7 +75,8 @@ NII : 354.11
 
 Issue Price : 60
 
-![image](https://user-images.githubusercontent.com/88246010/222750741-4612e77a-b4d8-4d94-9f31-03c2c80c1ead.png)
+![image](https://user-images.githubusercontent.com/88246010/223772773-036405ef-2906-4faf-bb34-0016b72b8951.png)
+
 
 
 The model predicts listing day gains 126.86% and actual listing day gain was around 130%(pretty close). Offcourse the actual value can never be predicted.
@@ -84,7 +86,7 @@ The model predicts listing day gains 126.86% and actual listing day gain was aro
 1. The model currently takes only 3 values as input. More relevant coulmns like GMP(Grey Market Premium) can be added to further reduce RMSE.
 2. The UI can be made more attractive.
 3. A different model can be used for better results.
-4. More data needs to be added while training.
+4. More data needs to be added while training to further reduce RMSE and make predictions more dependable.
 
 **Contact**
 
